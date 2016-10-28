@@ -1,0 +1,15 @@
+.mostrar{
+    display: none;
+}
+
+.cubo{
+    position: absolute;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin-top: 5%;
+}
+
+body{
+    height: 1500px;
+}
